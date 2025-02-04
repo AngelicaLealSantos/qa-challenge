@@ -10,7 +10,7 @@ Este projeto contém testes automatizados de interface do usuário e API para o 
 
 ## Como Executar os Testes
 
-1. Clone este repositório: `git clone <https://github.com/niuco/qa-challenge>`
+1. Clone este repositório: git clone https://github.com/AngelicaLealSantos/qa-challenge.git
 2. Instale as dependências: `npm install`
 3. Execute os testes de UI: `npm run test:ui`
 4. Execute os testes de API: `npm run test:api`
